@@ -3,3 +3,5 @@ Naknadna izmena
 Izmena sa moje_prve_grane
 
 Nema konflikta
+
+Izmena koja treba da se pregleda
