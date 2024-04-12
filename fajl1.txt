@@ -1,3 +1,5 @@
 Naknadna izmena
 
 Izmena sa moje_prve_grane
+
+Konfliktna izmena sa mastera
